@@ -1,6 +1,6 @@
 ## Hi there, I'm Chirag 👋
 
-##Languages that i work on 
+## Languages that i work on 
 Python, React, Typescript
 
 ## I am currently working on 
