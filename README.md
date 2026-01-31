@@ -1,7 +1,9 @@
 ## Hi there, I'm Chirag 👋
 
+##Languages that i work on 
+Python, React, Typescript
 
-I'm currently working on 
+## I am currently working on 
 
 1) Lumion
 2) Singal Kit
